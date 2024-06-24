@@ -482,4 +482,8 @@ body {
 	.dark-mode-btn {
 		order: 0;
 	}
+
+	.tg-ico {
+		scale: 0.8;
+	}
 }
