@@ -313,6 +313,7 @@ body {
 
 .project-border {
 	position: relative;
+	display: block;
 }
 .project-border::after {
 	position: absolute;
